@@ -11,7 +11,7 @@ A collection of SVG webfont that contains of all main payment methods and gatewa
 
 Basically as usual. You just need the source .css and also the font folder. Download the master file.
 Upload **bankmy.css** and **font** folder to your root and start enjoying this font.
-Place them anywhere you like. As instance, you can use <i>, <span> or <div> tag to call them.
+Place them anywhere you like. As instance, you can use '<i>', '<span>' or '<div>' tag to call them.
 i.e to show Maybank2U glyph.
 
 ```html
@@ -25,7 +25,7 @@ You can view all classes in the [How to Use Section](http://nrfz.org/bankMY/#how
 ##Supported Payment Methods and Gateways
 As a starter, this set only contains 15 glyphs.
 More styles and options will be added in the future.
-[You may send me a request](mailto:faiz@nrfz.org) or just open an issue.:
+[You may send me a request](mailto:faiz@nrfz.org) or just open an issue.
 
 * Maybank2U
 * CIMB Clicks
