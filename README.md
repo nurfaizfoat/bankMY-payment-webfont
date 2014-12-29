@@ -17,6 +17,11 @@ Place them anywhere you like. As instance, you can use `<i>`, `<span>` or `<div>
 <div class="icon icon-m2u"></div>
 ```
 
+Btw, Dont forget to call the .css
+
+```html
+<link rel="stylesheet" href="bankmy.css">
+```
 You can view all classes in the [How to Use Section](http://nrfz.org/bankMY/#howto)
 
 ![Screenshot of Classes](http://nrfz.org/bankMY/icon-classes-15.png)
