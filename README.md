@@ -3,7 +3,7 @@ BankMY Payment Webfont
 
 A collection of SVG webfont that contains of all main payment methods and gateways in Malaysia http://nrfz.org/bankMY
 
-![Screenshot of Usage BankMY](http://nrfz.org/bankMY/icon-selections-15.png)
+![Screenshot of Usage BankMY](http://nrfz.org/bankMY/icon-selections-15.png?v=1)
 
 **Jom! Let's start at [BankMY](http://nrfz.org/bankMY)!**
 
@@ -24,7 +24,7 @@ Btw, Dont forget to call the .css
 ```
 You can view all classes in the [How to Use Section](http://nrfz.org/bankMY/#howto)
 
-![Screenshot of Classes](http://nrfz.org/bankMY/icon-classes-15.png)
+![Screenshot of Classes](http://nrfz.org/bankMY/icon-classes-15.png?v=1)
 
 ##Supported Payment Methods and Gateways
 As a starter, this set only contains 16 glyphs.
