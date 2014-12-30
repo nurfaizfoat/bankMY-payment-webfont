@@ -27,7 +27,7 @@ You can view all classes in the [How to Use Section](http://nrfz.org/bankMY/#how
 ![Screenshot of Classes](http://nrfz.org/bankMY/icon-classes-15.png)
 
 ##Supported Payment Methods and Gateways
-As a starter, this set only contains 15 glyphs.
+As a starter, this set only contains 16 glyphs.
 More styles and options will be added in the future.
 [You may send me a request](mailto:faiz@nrfz.org) or just open an issue.
 
@@ -36,6 +36,7 @@ More styles and options will be added in the future.
 * Bank Islam
 * Hong Leong Bank
 * AMBank
+* Affin Bank
 * Public Bank
 * RHB Bank
 * Mastercard
@@ -54,6 +55,7 @@ Maybe by using Composer, Component or Bower :)
 ##Changelog
 - 26-12-2014 V1.0.0 Initial release. (15 icons)
 - 29-12-2014 V1.0.1 Dedicated demo site added [BankMY](http://nrfz.org/bankMY).
+- 30-12-2014 V1.0.2 Affin Bank logo icon added. (16 icons)
 
 ##License
 - All the source codes are licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
