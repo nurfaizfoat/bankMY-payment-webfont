@@ -41,5 +41,8 @@
     "tests"
   ],
   "license": "MIT",
-  "homepage": "http://nrfz.org/bankmy"
+  "homepage": "http://nrfz.org/bankmy",
+  "dependencies": {
+    "bankmy-payment-webfont": "~1.0.3"
+  }
 }
