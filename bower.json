@@ -1,5 +1,5 @@
 {
-  "name": "bankMY-payment-webfont",
+  "name": "bankmy-payment-webfont",
   "version": "1.0.2",
   "authors": [
     {
@@ -39,5 +39,5 @@
     "tests"
   ],
   "license": "MIT",
-  "homepage": "http://nrfz.org/bankMY"
+  "homepage": "http://nrfz.org/bankmy"
 }
