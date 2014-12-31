@@ -55,7 +55,7 @@ bower install bankmy-payment-webfont
 ```
 Composer, Component support will be added real soon.
 
-If you're using LESS for, please look for **bankmy.less**. (you should know how to use it by the time you read this. [How To](http://lesscss.org/)).
+If you're using LESS, please look for **bankmy.less**. (you should know how to use it by the time you read this. [How To](http://lesscss.org/)).
 
 ##Changelog
 - 26-12-2014 V1.0.0 Initial release. (15 icons)
