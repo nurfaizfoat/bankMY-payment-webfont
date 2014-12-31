@@ -55,10 +55,13 @@ bower install bankmy-payment-webfont
 ```
 Composer, Component support will be added real soon.
 
+If you're using LESS for, please look for **bankmy.less**. (you should know how to use it by the time you read this. [How To](http://lesscss.org/)).
+
 ##Changelog
 - 26-12-2014 V1.0.0 Initial release. (15 icons)
 - 29-12-2014 V1.0.1 Dedicated demo site added [BankMY](http://nrfz.org/bankMY).
 - 30-12-2014 V1.0.2 Affin Bank logo icon added (16 icons). Bower installation added.
+- 30-12-2014 V1.0.3 LESS option added. More aligned stylesheet.
 
 ##License
 - All the source codes are licensed under [MIT License](http://opensource.org/licenses/mit-license.html)

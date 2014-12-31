@@ -1,6 +1,6 @@
 {
   "name": "bankmy-payment-webfont",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Nurfaiz Foat",
@@ -14,6 +14,7 @@
   "description": "A collection of SVG webfont that contains of all main payment methods and gateways in Malaysia",
   "main": [
     "bankmy.css",
+    "bankmy.less",
     "fonts/bankmy.eot",
     "fonts/bankmy.svg",
     "fonts/bankmy.ttf",
@@ -21,6 +22,7 @@
   ],
   "keywords": [
     "malaysian",
+    "online",
     "banking",
     "font",
     "webfont",
