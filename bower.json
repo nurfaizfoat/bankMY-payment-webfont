@@ -8,7 +8,11 @@
     "globals"
   ],
   "description": "A collection of SVG webfont that contains of all main payment methods and gateways in Malaysia",
-  "main": "bankmy.css","fonts/bankmy.eot","fonts/bankmy.svg","fonts/bankmy.ttf","fonts/bankmy.woff",
+  "main": [ "bankmy.css",
+  "fonts/bankmy.eot",
+  "fonts/bankmy.svg",
+  "fonts/bankmy.ttf",
+  "fonts/bankmy.woff", ],
   "keywords": [
     "malaysian",
     "banking",
@@ -27,7 +31,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
   "license": "MIT",
   "homepage": "http://nrfz.org/bankMY"
 }
