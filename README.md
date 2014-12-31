@@ -49,13 +49,16 @@ More styles and options will be added in the future.
 * MOLPay
 
 ##Installation
-To be added, feel free to contribute an installation guides/choices.
-Maybe by using Composer, Component or Bower :)
+If you're using [Bower](http://bower.io/), simply `cd` to your desired location in Terminal and;
+```html
+bower install bankmy-payment-webfont
+```
+Composer, Component support will be added real soon.
 
 ##Changelog
 - 26-12-2014 V1.0.0 Initial release. (15 icons)
 - 29-12-2014 V1.0.1 Dedicated demo site added [BankMY](http://nrfz.org/bankMY).
-- 30-12-2014 V1.0.2 Affin Bank logo icon added. (16 icons)
+- 30-12-2014 V1.0.2 Affin Bank logo icon added (16 icons). Bower installation added.
 
 ##License
 - All the source codes are licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
