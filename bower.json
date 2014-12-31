@@ -1,0 +1,33 @@
+{
+  "name": "bankMY-payment-webfont",
+  "version": "1.0.2",
+  "authors": [
+    { "name": "Nurfaiz Foat", "email": "faiz@nrfz.org", "homepage": "http://nrfz.org" },
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "description": "A collection of SVG webfont that contains of all main payment methods and gateways in Malaysia",
+  "main": "bankmy.css","fonts/bankmy.eot","fonts/bankmy.svg","fonts/bankmy.ttf","fonts/bankmy.woff",
+  "keywords": [
+    "malaysian",
+    "banking",
+    "font",
+    "webfont",
+    "icon",
+    "css",
+    "vector",
+    "svg",
+    "maybank2u",
+    "cimbclicks"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  "license": "MIT",
+  "homepage": "http://nrfz.org/bankMY"
+}
