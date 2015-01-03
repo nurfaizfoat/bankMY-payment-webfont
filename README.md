@@ -22,7 +22,7 @@ Btw, Dont forget to call the .css
 ```html
 <link rel="stylesheet" href="bankmy.css">
 ```
-You can view all classes in the [How to Use Section](http://nrfz.org/bankMY/#howto)
+In order to size it accordingly, you can view full How-To and other classes in the [How to Use Section](http://nrfz.org/bankMY/#howto)
 
 ![Screenshot of Classes](http://nrfz.org/bankMY/icon-classes-15.png?v=1)
 
@@ -62,6 +62,7 @@ If you're using LESS, please look for **bankmy.less**. (you should know how to u
 - 29-12-2014 V1.0.1 Dedicated demo site added [BankMY](http://nrfz.org/bankMY).
 - 30-12-2014 V1.0.2 Affin Bank logo icon added (16 icons). Bower installation added.
 - 30-12-2014 V1.0.3 LESS option added. More aligned stylesheet.
+- 04-01-2015 V1.0.4 Icon baseline known issue from ascender to descender height is fixed. Sizing classes are also added.
 
 ##License
 - All the source codes are licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
