@@ -3,11 +3,11 @@
 
 @font-face {
   font-family: "bankmy";
-  src:url("fonts/bankmy.eot?v=1.0.4");
-  src:url("fonts/bankmy.eot?#iefix?v=1.0.4") format("embedded-opentype"),
-    url("fonts/bankmy.woff?v=1.0.4") format("woff"),
-    url("fonts/bankmy.ttf?v=1.0.4") format("truetype"),
-    url("fonts/bankmy.svg?bankmy?v=1.0.4") format("svg");
+  src:url("fonts/bankmy.eot?v=1.0.5");
+  src:url("fonts/bankmy.eot?#iefix?v=1.0.5") format("embedded-opentype"),
+    url("fonts/bankmy.woff?v=1.0.5") format("woff"),
+    url("fonts/bankmy.ttf?v=1.0.5") format("truetype"),
+    url("fonts/bankmy.svg?bankmy?v=1.0.5") format("svg");
   font-weight: normal;
   font-style: normal;
 
@@ -75,6 +75,16 @@
 .icon-affinbank:before {
   content: "p";
 }
+.icon-alliance:before {
+  content: "q";
+}
+.icon-bankrakyat:before {
+  content: "r";
+}
+.icon-kfh:before {
+  content: "s";
+}
+
 
 /* ----------------- Icon Preview -----------------*/
 
