@@ -67,6 +67,7 @@ If you're using LESS, please look for **bankmy.less**. (you should know how to u
 - 30-12-2014 V1.0.3 LESS option added. More aligned stylesheet.
 - 04-01-2015 V1.0.4 Icon baseline known issue from ascender to descender height is fixed. Sizing classes are also added.
 - 09-07-2015 V1.0.5 KFH, Bank Rakyat and Alliance Bank added (19 icons).
+- 09-07-2015 V1.0.6 CSS class fixes for unicode issue.
 
 ##License
 - All the source codes are licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
