@@ -1,0 +1,138 @@
+@charset "UTF-8";
+
+$icon-font-path: '/fonts' !default;
+
+@font-face {
+  font-family : "bankmy";
+          src : url("#{$icon-font-path}/bankmy.eot?v=1.0.4");
+          src : url("#{$icon-font-path}/bankmy.eot?#iefix?v=1.0.4") format("embedded-opentype"),
+                url("#{$icon-font-path}/bankmy.woff?v=1.0.4") format("woff"),
+                url("#{$icon-font-path}/bankmy.ttf?v=1.0.4") format("truetype"),
+                url("#{$icon-font-path}/bankmy.svg#bankmy?v=1.0.4") format("svg");
+  font-weight : normal;
+  font-style  : normal;
+}
+
+[class^="icon-"],
+[class*="icon-"] {
+  &:before {
+                    speak : none;
+               font-style : normal;
+              font-family : "bankmy";
+              font-weight : normal;
+             font-variant : normal;
+           text-transform : none;
+              line-height : 1px;
+   -webkit-font-smoothing : antialiased;
+  -moz-osx-font-smoothing : grayscale;  }
+}
+
+.icon-alliance:before {
+    content: "\e600";
+}
+.icon-bankrakyat:before {
+    content: "\e602";
+}
+.icon-kfh:before {
+    content: "\e603";
+}
+.icon-affinbank:before {
+    content: "\e601";
+}
+.icon-ambank:before {
+    content: "\61";
+}
+.icon-bimb:before {
+    content: "\62";
+}
+.icon-cimb:before {
+    content: "\63";
+}
+.icon-fpx:before {
+    content: "\64";
+}
+.icon-hongleong:before {
+    content: "\65";
+}
+.icon-ipay88:before {
+    content: "\66";
+}
+.icon-m2u:before {
+    content: "\67";
+}
+.icon-mastercard:before {
+    content: "\68";
+}
+.icon-meps:before {
+    content: "\69";
+}
+.icon-mobile-money:before {
+    content: "\6a";
+}
+.icon-molpay:before {
+    content: "\6b";
+}
+.icon-paypal:before {
+    content: "\6c";
+}
+.icon-pbebank:before {
+    content: "\6d";
+}
+.icon-rhb:before {
+    content: "\6f";
+}
+.icon-visa:before {
+    content: "\6e";
+}
+
+/* ----------------- Icon Preview -----------------*/
+
+.icon {
+
+  display: inline-block;
+  font: normal normal normal 14px/1;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ----------------- Font Sizing Class -----------------*/
+
+.besar {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+
+.besar-1halfx {
+  font-size: 1.5em;
+}
+
+.besar-2x {
+  font-size: 2em;
+}
+
+.besar-2halfx {
+  font-size: 2.5em;
+}
+
+.besar-3x {
+  font-size: 3em;
+}
+
+.besar-3halfx {
+  font-size: 3.5em;
+}
+
+.besar-4x {
+  font-size: 4em;
+}
+
+.besar-4halfx {
+  font-size: 4.5em;
+}
+
+.besar-5x {
+  font-size: 5em;
+}
